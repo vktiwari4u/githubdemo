@@ -3,3 +3,6 @@ have emoji
 typing options
 vibrant colours
 dark mode
+payment mode 
+receiving
+sending
